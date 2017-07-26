@@ -1,0 +1,6 @@
+framework module Pods_Wordnomics {
+  umbrella header "Pods-Wordnomics-umbrella.h"
+
+  export *
+  module * { export * }
+}
